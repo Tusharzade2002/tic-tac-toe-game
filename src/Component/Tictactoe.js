@@ -1,5 +1,6 @@
 import React from 'react'
 import Square from './Square'
+import './Tictactoe.css'
 function Tictactoe() {
   return (
     <div className='board-container'>
