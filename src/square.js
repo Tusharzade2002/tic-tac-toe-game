@@ -1,6 +1,6 @@
 import React from 'react'
 
-function square() {
+function Square() {
   return (
     <div className='square'>
         <h4>X</h4>
@@ -8,4 +8,4 @@ function square() {
   )
 }
 
-export default square
+export default Square
